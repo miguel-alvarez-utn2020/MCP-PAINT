@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "paint": {
+      "command": "python",
+      "args": ["server.py"],
+      "cwd": "c:/Users/Usuario/Documents/ProyectosPruebas/MCP-TEST-Paint"
+    }
+  }
+}

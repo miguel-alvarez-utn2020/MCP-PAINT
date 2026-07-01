@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp / generado en sesión
+imgs_b64.json
+guia-mcp.template.html
+
+# Claude Code local settings (permisos personales)
+.claude/settings.local.json
